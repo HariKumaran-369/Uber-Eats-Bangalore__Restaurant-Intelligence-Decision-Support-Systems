@@ -266,7 +266,9 @@ Opens the app in your browser at `http://localhost:8501`.
 
 **Hari Kumaran**
 GitHub: [@HariKumaran-369](https://github.com/HariKumaran-369)
+
 LinkedIn: [https://www.linkedin.com/in/hari-kumaran-369univers/]
+
 Streamlit: [https://uber-eats-bangalorerestaurant-intelligence-decision-support-sy.streamlit.app/]
 ---
 
