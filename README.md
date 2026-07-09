@@ -49,7 +49,7 @@ All filtering and aggregation logic is implemented strictly using SQL — no Pyt
 ---
 
 ## Project Architecture
-
+---
 Uber_Eats_data.csv + orders.json (Raw Data)
        │
        ▼
@@ -69,7 +69,7 @@ queries.py (uber_eats-13, order_rows-5, SQL business questions)
        │
        ▼
 app.py (Streamlit – Dashboard | Business Q&A | Order Analytics)
-
+---
 
 ---
 
