@@ -11,7 +11,7 @@ A SQL-powered business analytics platform that analyses Uber Eats restaurant dat
 
 ## Demo
 
-🎥 Watch the demo video: **[Add your LinkedIn video link here]**
+🎥 Watch the demo video: **[ https://www.linkedin.com/posts/hari-kumaran-369univers_python-streamlit-sqlite-activity-7480992982410756097-Ib2a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN887EBYUAxkSV4oyB8GqsP28FYWJbguCo ]**
 
 ---
 
@@ -266,8 +266,8 @@ Opens the app in your browser at `http://localhost:8501`.
 
 **Hari Kumaran**
 GitHub: [@HariKumaran-369](https://github.com/HariKumaran-369)
-LinkedIn: [Add your LinkedIn profile link]
-
+LinkedIn: [https://www.linkedin.com/in/hari-kumaran-369univers/]
+Streamlit: [https://uber-eats-bangalorerestaurant-intelligence-decision-support-sy.streamlit.app/]
 ---
 
 ## License
